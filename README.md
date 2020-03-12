@@ -2,7 +2,9 @@
 
 Software - Stage de Desarrollo.
 
-## NOTAS DE DESARROLLO
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+### NOTAS DE DESARROLLO
 
 Branch Master:
   Funcionando el día 12/03/2020.
